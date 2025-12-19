@@ -1,6 +1,4 @@
-Text to SQL LLM Application 
-prompt -->LLM-->Gemini Pro-->Query-->SQL DA-->Response 
-Implementation 
----------
-1.SQLlite --insert some records --python programming 
-LLM Application --gemini pro -- sql database
+NL2SQL: Natural Language to SQL Query Application
+Description
+
+This project is an interactive Streamlit application that converts natural language questions into SQL queries using Google Gemini 2.0 LLM. Users can type English questions, and the system automatically generates SQL queries, executes them on a SQLite database, and returns the results in real-time.
